@@ -1,5 +1,5 @@
 # Android-Pizzify
-Pizzify is a simple Android mobile application for a pizza ordering platform, enabling functionalities like taking the orders, placing the orders, and cancelling an order. 
+Pizzify is a simple Android mobile application for a pizza ordering platform, enabling functionalities like taking the orders, placing the orders, and cancelling an order. sa
 User guide to open app and run in the android studio
 
 # Step 1  : Open android studio if you are not having then download from below URL
