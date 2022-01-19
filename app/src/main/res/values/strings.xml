@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pizzify</string>
+    <string name="pizzeriatitle">Pizzify</string>
+    <string name="deluxe_pizza">Deluxe Pizza</string>
+    <string name="pepperoni_pizza">Pepperoni Pizza</string>
+    <string name="hawaiian_pizza">Hawaiian Pizza</string>
+    <string name="store_order">Store Order</string>
+    <string name="cart_order">Cart Order</string>
+    <string name="ask_pnumber">Enter Phone number :</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="order">Add Pizza</string>
+    <string name="add">add</string>
+    <string name="remove">Remove</string>
+    <string name="plcorder">Place Order</string>
+    <string name="extrpizza">Remove</string>
+    <string name="mbno">Mobile Number :</string>
+    <string name="Pizcart">Pizza Cart</string>
+    <string name="total_amount">Total Amount :  $</string>
+    <string name="pnon">Phone Number :</string>
+    <string name="Storeheader">Store Orders</string>
+    <string name="Clrorder">Clear Orders</string>
+    <string name="clickforpizza">Please click the pizza you wish to order :</string>
+    <string name="AvailTop">Available Toppings</string>
+    <string name="SelecTop">Selected Toppings</string>
+    <string name="Pizcust">Pizza Customization</string>
+
+</resources>

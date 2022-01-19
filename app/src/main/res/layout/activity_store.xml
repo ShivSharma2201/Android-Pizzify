@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.StoreActivity"
+    android:background="#FFF4E5"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Storehead"
+            android:layout_width="wrap_content"
+            android:layout_height="76dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="30dp"
+            android:textSize="40sp"
+            android:text="@string/Storeheader"
+            android:textColor="@color/purple_500"
+            android:fontFamily="cursive"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="78dp"
+            android:layout_marginStart="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/plabel"
+                android:layout_width="3dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:textColor="@color/purple_500"
+                android:text="@string/pnon" />
+
+            <Spinner
+                android:id="@+id/PhoneSelect"
+                android:layout_width="116dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/border"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <TextView
+                android:id="@+id/Amntlabel"
+                android:layout_width="14dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginStart="10dp"
+                android:textColor="@color/purple_500"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/total_amount" />
+
+            <TextView
+                android:id="@+id/Storettlamnt"
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/purple_500"
+                android:layout_marginTop="23dp"
+                 />
+
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/OrdersList"
+            android:layout_width="match_parent"
+            android:layout_height="348dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/border"
+            android:choiceMode="singleChoice"
+            android:listSelector="#FFE600">
+
+        </ListView>
+
+        <Button
+            android:id="@+id/ClearOrder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/Clrorder"
+            android:textColor="#FFCC80" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
