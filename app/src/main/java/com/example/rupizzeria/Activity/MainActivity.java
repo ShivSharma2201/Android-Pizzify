@@ -17,7 +17,6 @@ import com.example.rupizzeria.R;
 /**
  * This is the activity class for Main Activity.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class MainActivity extends AppCompatActivity {
 

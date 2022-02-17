@@ -5,7 +5,6 @@ import com.example.rupizzeria.Appconstant.AppConstant;
 /**
  * This is the model class for PizzaMaker which creates an instance based on the chosen flavor.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class PizzaMaker {
 

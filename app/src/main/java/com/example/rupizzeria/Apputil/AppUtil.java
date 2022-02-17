@@ -4,7 +4,6 @@ import java.text.DecimalFormat;
 /**
  * App util is used to format numerous decimal values to 2 decimal values.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class AppUtil {
 

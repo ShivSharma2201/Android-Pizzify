@@ -3,7 +3,6 @@ package com.example.rupizzeria.Appconstant;
 /**
  * All the constant values are stored in this class.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class AppConstant {
 

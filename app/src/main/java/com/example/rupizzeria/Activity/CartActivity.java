@@ -24,7 +24,6 @@ import java.util.List;
 /**
  * This is the activity class for Cart Activity.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class CartActivity extends AppCompatActivity {
     private ListView AddedPizzas;

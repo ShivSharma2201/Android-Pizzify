@@ -5,7 +5,6 @@ import java.util.ArrayList;
 /**
  * This is the model class for Pizza.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public abstract class Pizza {
     protected ArrayList<String> Toppings = new ArrayList<String>();

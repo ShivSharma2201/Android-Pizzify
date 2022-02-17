@@ -28,7 +28,6 @@ import java.util.Arrays;
 /**
  * This is the activity class for Cart Customization Activity.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class CartCustomizationActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
     private Spinner PizzaSize;

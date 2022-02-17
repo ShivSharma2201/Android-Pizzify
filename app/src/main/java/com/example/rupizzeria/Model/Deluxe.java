@@ -8,7 +8,6 @@ import java.util.ArrayList;
 /**
  * This is the model class for Pizza type Deluxe.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class Deluxe extends Pizza {
     protected double totalPrice;

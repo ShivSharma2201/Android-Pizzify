@@ -8,7 +8,6 @@ import java.util.ArrayList;
 /**
  * This is the model class for Pizza type Pepperoni.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class Pepperoni extends Pizza {
     private double totalPrice;

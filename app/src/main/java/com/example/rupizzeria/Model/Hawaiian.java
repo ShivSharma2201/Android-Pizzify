@@ -8,7 +8,6 @@ import java.util.ArrayList;
 /**
  * This is the model class for Pizza type Hawaiian.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class Hawaiian extends Pizza {
 

@@ -13,7 +13,6 @@ import java.util.ArrayList;
 /**
  * This is the Adapter for the lists used in the application views.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class ListAdapter extends ArrayAdapter<String> {
 

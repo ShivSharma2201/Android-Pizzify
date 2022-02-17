@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * This is the model class a Pizza order.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class Order {
 

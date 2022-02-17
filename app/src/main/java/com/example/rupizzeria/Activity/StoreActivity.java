@@ -25,7 +25,6 @@ import java.util.List;
 /**
  * This is the activity class for Store Activity.
  *
- * @author Abhishek Patel, Darshan Patel
  */
 public class StoreActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
 
